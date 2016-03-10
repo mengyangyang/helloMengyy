@@ -6,7 +6,7 @@ public class GitTest {
 		// TODO Auto-generated method stub
 		System.out.println("Hello MengYangyang!!!");
 		System.out.println("Hello Word!!!");
-		System.out.println("Created one branch!!");
+		System.out.println("Created one branch");
 	}
 
 }
